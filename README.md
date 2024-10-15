@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at [Portfolio](.....)
+- 👨‍💻 All of my projects are available at [Portfolio](...)
 
 - 💬 Ask me about MERN stack
 
