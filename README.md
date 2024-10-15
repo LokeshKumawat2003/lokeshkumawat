@@ -75,11 +75,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkumawat&show_icons=true&locale=en&layout=compact" alt="lokeshkumawat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkumawat2003&show_icons=true&locale=en&layout=compact" alt="lokeshkumawat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshkumawat&show_icons=true&locale=en" alt="lokeshkumawat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshkumawat2003&show_icons=true&locale=en" alt="lokeshkumawat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshkumawat&" alt="lokeshkumawat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshkumawat2003&" alt="lokeshkumawat" /></p>
    <hr>
    </p
  
@@ -87,7 +87,7 @@
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img
           alt="lokesh"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshkumawat&theme=github_dark"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshkumawat2003&theme=github_dark"
           align="center"
         />
 </div>
