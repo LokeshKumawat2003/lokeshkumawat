@@ -26,7 +26,7 @@
   <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokeshkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshkumawat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashuvaishnav" alt="yashuvaishnav" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshkumawat" alt="lokeshkumawat" /></a> </p>
   </div>
     <br />
      <br />
@@ -70,24 +70,24 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-vaishnav-b55473261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashuvaishnav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-vaishnav-b55473261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshkumawat" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashuvaishnav&show_icons=true&locale=en&layout=compact" alt="yashuvaishnav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkumawat&show_icons=true&locale=en&layout=compact" alt="lokeshkumawat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashuvaishnav&show_icons=true&locale=en" alt="yashuvaishnav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshkumawat&show_icons=true&locale=en" alt="lokeshkumawat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashuvaishnav&" alt="yashuvaishnav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshkumawat&" alt="lokeshkumawat" /></p>
    <hr>
    </p
  
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img
-          alt="yash"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashuvaishnav&theme=github_dark"
+          alt="lokesh"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshkumawat&theme=github_dark"
           align="center"
         />
 </div>
