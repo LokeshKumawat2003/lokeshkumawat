@@ -1,5 +1,5 @@
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
-<h1 align="center">Hi 👋, I'm Yash Vaishnav</h1>
+<h1 align="center">Hi 👋, I am Lokesh Kumawat</h1>
 <h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
   <hr/>
   <br>
@@ -11,20 +11,20 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yashuvaishnav.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](.....)
 
 - 💬 Ask me about MERN stack
 
-- 📫 How to reach me <b>yashurishu22@gmail.com</b>
+- 📫 How to reach me <b>lokeshkumawat288g@gmail.com</b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1TKwoysksS0BfDhcwAZQdJgXGedTxdtQQ/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1vWW1Yo0P2HxZ97mYv-ypJLO_IUMBts4g/view?usp=drive_link" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
    <hr>
   
  
   <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashuvaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="yashuvaishnav" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokeshkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshkumawat" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashuvaishnav" alt="yashuvaishnav" /></a> </p>
   </div>
